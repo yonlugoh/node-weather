@@ -1,5 +1,6 @@
 # Testing readme syntax
-```npm start
+```bash
+npm start
 ```
 
 ## Second Header
@@ -8,5 +9,6 @@
 
 Run app in browser 
 
-```http://192.168.23.74:3000/weather
-```
+[Run website app](http://192.168.23.74:3000/weather)
+
+

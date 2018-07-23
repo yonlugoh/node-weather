@@ -1,0 +1,4 @@
+node_modules
+.idea
+fcc-chart-stock-market.iml
+public/vendor
